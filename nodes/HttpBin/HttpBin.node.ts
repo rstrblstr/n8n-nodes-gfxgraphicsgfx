@@ -3,7 +3,7 @@ import { httpVerbFields, httpVerbOperations } from './HttpVerbDescription';
 
 export class HttpBin implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'HttpBin',
+		displayName: 'autoGfxHttpBin',
 		name: 'httpBin',
 		icon: 'file:httpbin.svg',
 		group: ['transform'],
@@ -22,7 +22,7 @@ export class HttpBin implements INodeType {
 			},
 		],
 		requestDefaults: {
-			baseURL: 'https://httpbin.org',
+			baseURL: 'http://autogfx.x.ccroww',
 			url: '',
 			headers: {
 				Accept: 'application/json',
