@@ -1,19 +1,19 @@
 {
-  "name": "n8n-nodes-<...>",
-  "version": "0.1.0",
-  "description": "",
+  "name": "n8n-nodes-n8n-nodes-gfxgraphicsgfx",
+  "version": "0.0.1",
+  "description": "gfx graphics gfx graphics",
   "keywords": [
     "n8n-community-node-package"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://ccroww.com",
   "author": {
-    "name": "",
-    "email": ""
+    "name": "ccroww",
+    "email": "ccroww@ccroww.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<...>/n8n-nodes-<...>.git"
+    "url": "git+https://github.com/rstrblstr/n8n-nodes-gfxgraphicsgfx.git"
   },
   "engines": {
     "node": ">=18.10",
