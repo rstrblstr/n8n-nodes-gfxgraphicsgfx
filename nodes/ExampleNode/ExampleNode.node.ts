@@ -6,10 +6,10 @@ import {
 	NodeOperationError,
 } from 'n8n-workflow';
 
-export class ExampleNode implements INodeType {
+export class AutoGfxNode implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'AutoGfx Example Node',
-		name: 'exampleNode',
+		displayName: 'AutoGfx Node',
+		name: 'autoGfxNode',
 		group: ['transform'],
 		version: 1,
 		description: 'Basic Example Node',
